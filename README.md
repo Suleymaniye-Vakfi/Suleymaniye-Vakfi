@@ -1,6 +1,6 @@
 Selamun Aleyküm 👐
 
-Burada versiyon kontrollü tercüme çalışmaları gerçekelştireceğiz inşaallah
+Burada versiyon kontrollü tercüme çalışmaları gerçekleştireceğiz inşaallah
 
 <!---
 Suleymaniye-Vakfi/Suleymaniye-Vakfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
